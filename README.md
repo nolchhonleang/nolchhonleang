@@ -1,85 +1,130 @@
+````md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,25:0F172A,50:1E3A8A,75:2563EB,100:06B6D4&text=NOL%20CHHONLEANG&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20•%20Banking%20Technology%20•%20QA%20Automation&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:020617,15:0F172A,35:1E293B,55:1D4ED8,75:2563EB,100:06B6D4&text=NOL%20CHHONLEANG&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20•%20Banking%20Technology%20•%20QA%20Automation%20Engineer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Secure+Systems+for+the+Future+of+Banking;QA+Engineer+%7C+Backend+Developer+%7C+FinTech+Engineer;Computer+Science+Student+with+Real+Banking+Experience;Code+with+Purpose.+Build+with+Impact."/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2300&pause=800&color=00F0FF&center=true&vCenter=true&width=1200&lines=Enterprise+Software+Engineer;Banking+Technology+Specialist;QA+Automation+%7C+Backend+Engineering;Building+Secure+and+Scalable+Systems;Engineering+Solutions+with+Real+Impact"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nolchhonleang&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚡ WHO AM I
+# 💫 ABOUT ME
 
 ```yaml
 name: Nol Chhonleang
-title: Software Engineer | Banking Technology Engineer
-education: Bachelor of Computer Science
-university: Norton University
-current_role: QA & Automation Trainee @ APD Bank
-location: Phnom Penh, Cambodia
+
+role: Software Engineer
 
 specialization:
-  - Core Banking Systems
+  - Banking Technology
   - Enterprise Software Engineering
   - Backend Development
   - API Engineering
-  - Software Quality Assurance
-  - Database Engineering
+  - QA Automation
+  - Database Systems
   - System Analysis
 
+education:
+  degree: Bachelor of Computer Science
+  university: Norton University
+
+experience:
+  company: APD Bank
+  position: QA & Automation Engineer Trainee
+
+location: Phnom Penh, Cambodia
+
 mission:
-  Build secure, scalable, and high-impact technology for banking and financial systems.
-```
+  Design and build secure, scalable, and enterprise-grade systems
+  that create real-world impact in banking and financial technology.
+
+mindset:
+  - Security First
+  - Performance Driven
+  - Clean Architecture
+  - Continuous Learning
+  - Real Problem Solving
+````
 
 ---
 
 # 🏦 ENTERPRISE EXPERIENCE
 
-## QA & Automation Engineer | APD Bank
+## ⚡ QA & Automation Engineer — APD Bank
 
-Working in real banking production environments with enterprise applications.
+Working with enterprise banking systems, financial platforms,
+and real production environments.
+
+### Core Responsibilities
 
 ```diff
-+ Core Banking Application Testing
-+ Digital Banking Platform Validation
-+ API Integration & Security Testing
-+ Database Validation using SQL
-+ Defect Analysis & Root Cause Investigation
-+ Regression & UAT Testing
-+ Business Workflow Validation
-+ Cross-team Collaboration with Developers & Business Teams
++ Core Banking System Validation
++ API Integration & Backend Testing
++ Database Verification using SQL
++ Regression Testing & UAT
++ Enterprise Workflow Validation
++ Security & Functional Testing
++ Root Cause Analysis & Defect Investigation
++ Cross-team Collaboration with Developers and Business Teams
++ Quality Assurance for Financial Applications
 ```
 
-### Key Impact
+### Key Contributions
 
-✔ Improved application reliability  
-✔ Identified critical defects before production release  
-✔ Supported stable banking operations  
-✔ Helped improve user experience and system quality  
+✔ Improved enterprise application reliability
+✔ Detected critical production-level defects before release
+✔ Supported stable and secure banking operations
+✔ Increased software quality and validation efficiency
+✔ Enhanced user experience through testing improvements
 
 ---
 
-# ⚔ TECH STACK
+# ⚔️ TECHNOLOGY STACK
 
-## Languages
+## 💻 Programming Languages
 
+```text
 Java • Python • JavaScript • TypeScript • C# • PHP
+```
 
-## Backend Engineering
+---
 
+## ⚙️ Backend Engineering
+
+```text
 Laravel • Spring Boot • ASP.NET • Node.js • Express.js
+```
 
-## Frontend Engineering
+---
 
+## 🎨 Frontend Engineering
+
+```text
 React.js • HTML5 • CSS3 • Tailwind CSS • Bootstrap
+```
 
-## Database Engineering
+---
 
+## 🛢 Database Engineering
+
+```text
 MySQL • SQL Server • MongoDB • Supabase
+```
 
-## Engineering Tools
+---
 
-Git • GitHub • Postman • JIRA • Agile • Scrum
+## 🧰 Engineering Tools
+
+```text
+Git • GitHub • Postman • JIRA • Agile • Scrum • VS Code
+```
 
 ---
 
@@ -87,76 +132,124 @@ Git • GitHub • Postman • JIRA • Agile • Scrum
 
 ## 🏢 Human Capital Management System
 
-Enterprise-grade HR platform:
+Enterprise-grade HR management platform designed
+for scalability and secure workflow management.
 
-✔ Role-Based Access Control  
-✔ Employee Lifecycle Management  
-✔ Attendance & Payroll Automation  
-✔ Performance Analytics  
-✔ Secure Authentication  
+### Features
+
+```yaml
+system:
+  - Role-Based Access Control
+  - Employee Lifecycle Management
+  - Attendance & Payroll Automation
+  - Performance Analytics Dashboard
+  - Secure Authentication
+  - Enterprise Reporting System
+```
 
 ---
 
 ## 🏦 Banking QA Automation Suite
 
-Enterprise banking testing system:
+Enterprise testing and automation solution
+for banking and financial systems.
 
-✔ API Validation  
-✔ SQL Verification  
-✔ Regression Testing  
-✔ Workflow Testing  
-✔ Bug Tracking  
+### Features
+
+```yaml
+automation:
+  - API Validation Testing
+  - SQL Data Verification
+  - Workflow Automation
+  - Regression Testing
+  - Bug Tracking & Defect Reporting
+  - System Validation & Monitoring
+```
 
 ---
 
 ## 🌐 Network Security Scanner
 
-Cybersecurity project built with Python:
+Python-based cybersecurity monitoring and analysis platform.
 
-✔ Device Discovery  
-✔ Port Scanning  
-✔ Network Analysis  
-✔ Security Monitoring  
+### Features
+
+```yaml
+security:
+  - Device Discovery
+  - Port Scanning
+  - Security Monitoring
+  - Network Traffic Analysis
+  - Threat Detection
+```
 
 ---
 
-# 📈 ENGINEERING ANALYTICS
+# 📊 ENGINEERING ANALYTICS
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nolchhonleang&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=nolchhonleang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolchhonleang&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolchhonleang&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nolchhonleang&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img width="92%" src="https://github-readme-streak-stats.herokuapp.com/?user=nolchhonleang&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<br/>
+
+<img width="92%" src="https://github-profile-trophy.vercel.app/?username=nolchhonleang&theme=tokyonight&no-frame=true&margin-w=12&row=1"/>
 
 </div>
 
 ---
 
-# 🎯 FUTURE VISION
+# 🎯 ENGINEERING VISION
 
 ```javascript
-const career = {
+const futureVision = {
     nextRole: "Core Banking Engineer",
-    longTermGoal: "Technology Leader in FinTech",
-    industries: ["Banking", "FinTech", "Cybersecurity", "Enterprise Systems"],
-    philosophy: "Secure systems. Scalable architecture. Real impact."
+
+    longTermGoal:
+        "Become a technology leader in banking and enterprise systems",
+
+    focusAreas: [
+        "Enterprise Engineering",
+        "Financial Technology",
+        "Cybersecurity",
+        "Cloud Infrastructure",
+        "Automation Systems"
+    ],
+
+    philosophy: [
+        "Secure Architecture",
+        "Scalable Systems",
+        "Engineering Excellence",
+        "Real-World Impact"
+    ]
 };
 ```
 
 ---
 
-# 📫 LET'S CONNECT
+# 🌐 CONNECT WITH ME
 
-📧 Email: nchhonleang@gmail.com  
-📱 Phone: +855 85 829 826  
-💻 GitHub: github.com/nolchhonleang  
+```yaml
+email: nchhonleang@gmail.com
+github: github.com/nolchhonleang
+location: Phnom Penh, Cambodia
+```
 
 ---
 
 <div align="center">
 
-# ⚡ BUILD. SECURE. SCALE. LEAD. ⚡
+# ⚡ BUILD • SECURE • SCALE • LEAD ⚡
+
+### Engineering secure systems for the future of banking technology
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:020617,20:0F172A,40:1E293B,60:1D4ED8,80:2563EB,100:06B6D4"/>
 
 </div>
+```
