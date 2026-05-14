@@ -1,135 +1,148 @@
 <div align="center">
 
-# Hi, I'm Nol Chhonleang 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:1E3A8A,100:06B6D4&text=NOL%20CHHONLEANG&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Software%20Engineer%20|%20Banking%20Technology%20|%20QA%20Engineer&descAlignY=58"/>
 
-### Software Engineer | Banking Technology | QA Engineer | Full Stack Developer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Banking+Technology+Enthusiast;QA+%26+Automation+Engineer;Full+Stack+Developer;Future+Core+Banking+Specialist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Final-Year+Computer+Science+Student;QA+%26+Automation+Engineer;Banking+Technology+Enthusiast;Full+Stack+Developer;Future+Core+Banking+Specialist" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# ⚡ About Me
 
-I am a final-year **Computer Science** student at **Norton University, Cambodia**, passionate about building secure, scalable, and impactful software solutions.
+```yaml
+Name: Nol Chhonleang
+Location: Phnom Penh, Cambodia
+Education: Norton University (Computer Science)
+Current Role: QA & Automation Trainee @ APD Bank
+Focus: Banking Technology, Backend Engineering, QA, Core Banking
+Mindset: Build. Learn. Improve. Repeat.
+```
 
-Currently, I am gaining hands-on experience in **banking technology** as a **QA & Automation Trainee at APD Bank**, where I work with digital banking platforms, core banking systems, APIs, databases, and enterprise applications.
+I am a passionate software engineer focused on building secure, scalable, and enterprise-level systems.
 
-I enjoy solving real-world problems through technology and continuously learning modern software engineering practices.
+Currently working in the banking industry, gaining real-world experience with:
 
----
-
-## 💼 Current Focus
-
-🔹 Core Banking Systems  
-🔹 Backend Development  
-🔹 Software Quality Assurance  
-🔹 API Development & Testing  
-🔹 Database Design & Optimization  
-🔹 Banking Digital Transformation  
-🔹 Cybersecurity & System Reliability  
-
----
-
-## 🛠 Tech Stack
-
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk)
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-
----
-
-### Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=springboot)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-000?style=for-the-badge&logo=.net)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-
----
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
-
----
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-
----
-
-## 🏦 Banking & QA Experience
-
-### QA & Automation Trainee — APD Bank
-
-✔ Core Banking Application Testing  
-✔ Mobile Banking Testing  
-✔ API Testing & Validation  
-✔ Database Verification  
-✔ Bug Tracking & Reporting  
-✔ Regression Testing  
-✔ UAT Support  
+✔ Core Banking Systems  
+✔ Digital Banking Platforms  
+✔ API Integration & Testing  
+✔ Database Management  
+✔ Enterprise Application Testing  
 ✔ System Troubleshooting  
 
----
-
-## 📌 Featured Projects
-
-### Human Capital Management System
-Enterprise HR system with employee management, attendance, payroll, and analytics.
-
-### Banking QA Automation
-API and system testing for digital banking platforms.
-
-### Network Security Scanner
-Python-based network scanning and security analysis project.
-
-### AI-Powered Business Systems
-Building intelligent solutions using modern software engineering.
+My mission is to become a world-class engineer in **Banking Technology + Software Engineering + Cybersecurity**.
 
 ---
 
-## 📈 GitHub Stats
+# 🧠 Tech Arsenal
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=nolchhonleang&show_icons=true&theme=tokyonight)
+### Languages
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nolchhonleang&theme=tokyonight)
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+![Spring Boot](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=springboot)
+![ASP.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=.net)
+![NodeJS](https://img.shields.io/badge/Node-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-black?style=for-the-badge&logo=microsoftsqlserver)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 
 </div>
 
 ---
 
-## 🎯 Career Goal
+# 🏦 Banking Experience
 
-My goal is to become a strong **Software Engineer / Core Banking Specialist**, building secure financial systems that create real impact in the banking and fintech industry.
+## QA & Automation Trainee | APD Bank
+
+```diff
++ Core Banking Application Testing
++ Mobile Banking Testing
++ API Validation & Integration Testing
++ SQL Database Verification
++ Defect Tracking & Root Cause Analysis
++ Regression Testing
++ User Acceptance Testing
++ Banking Workflow Validation
+```
+
+Working closely with enterprise banking applications and helping ensure system reliability, security, and performance.
 
 ---
 
-## 📫 Contact Me
+# 🚀 Featured Projects
+
+## Human Capital Management System
+Enterprise HR platform with RBAC, employee management, payroll, attendance, and analytics.
+
+## Banking Testing Automation
+API testing, database validation, and workflow verification for banking systems.
+
+## Network Security Scanner
+Python-based network scanning and security analysis tool.
+
+## AI Business Solutions
+Building modern AI-assisted systems for real-world operations.
+
+---
+
+# 📊 Engineering Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=nolchhonleang&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=nolchhonleang&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nolchhonleang&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🎯 Career Objective
+
+```javascript
+const future = {
+    role: "Core Banking Engineer",
+    mission: "Build secure financial systems",
+    passion: ["Software Engineering", "Banking Tech", "Cybersecurity"],
+    mindset: "Never stop learning"
+};
+```
+
+---
+
+# 📫 Connect With Me
 
 📧 Email: nchhonleang@gmail.com  
-📱 Phone: +855 85 829 826  
 💻 GitHub: github.com/nolchhonleang  
+📱 Phone: +855 85 829 826  
 
 ---
 
 <div align="center">
 
-### "Code with purpose. Build with impact." 🚀
+## ⚡ "Code. Secure. Scale. Impact."
 
 </div>
